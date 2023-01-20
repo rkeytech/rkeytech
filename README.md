@@ -7,4 +7,4 @@ I'm a person with a passion for technology. I can work hard to achieve my goals 
 
 ## 𝗦𝘁𝗮𝘁𝘀
 
-![rkeytech's github stats](https://github-readme-stats.vercel.app/api?username=rkeytech&show_icons=true&theme=dracula)
+![rkeytech's github stats](https://github-readme-stats.vercel.app/api?username=rkeytech&show_icons=true&theme=dracula&count_private=true)
